@@ -6,6 +6,6 @@ public class SquareTest {
     
     @Test
     public void testSquare() {
-        assertEquals(4, Square.square(1));
+        assertEquals(4, Square.square(2));
     }
 }
